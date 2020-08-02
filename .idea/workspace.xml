@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b9b1006-5c49-47a5-9ab0-0fba62c66957" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Constants/Constant.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Constants/ExceptionConstant.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Entities/BaseEntity.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Entities/Contact.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Entities/Message.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Entities/Room.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Entities/User.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Entities/UserRoom.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Exсeptions/AppExсeption.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Exсeptions/UnauthorizeException.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/HelperInterfaces/IAuthMessageHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/HelperInterfaces/IJwtHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Models/Account/Request/LoginRequest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Models/Account/Request/SendConfirmSMSRequest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Models/Default/Request/ContactRequest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Models/Default/Request/MessageRequest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Models/Default/Request/RoomRequest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Models/Default/Request/UserRequest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Models/Default/Request/UserRoomRequest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Models/Default/Response/ContactResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Models/Default/Response/MessageResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Models/Default/Response/RoomResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Models/Default/Response/UserResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Models/Default/Response/UserRoomResponse.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Models/Enums/RoleModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/RepositorieInterfaces/IBaseRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/RepositorieInterfaces/IContactRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/RepositorieInterfaces/IMessageRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/RepositorieInterfaces/IRoomRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/RepositorieInterfaces/IUserRoomRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Services/AccountService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Services/Interfaces/IAccountService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Services/Interfaces/IRoomService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/Services/RoomService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/ionic-chat.DAL.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.DAL/ionic-chat.Domain.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.Infrastructure/ionic-chat.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ionic-chat.Infrastructure/ionic-chat.Infrastructure.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Controllers/AccountController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Controllers/AccountController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ionic.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ionic.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../resources/android/xml/network_security_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../resources/android/xml/network_security_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/account-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/account/account-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/account.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/account/account.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/register.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/account/components/register/register.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/register.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/account/components/register/register.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/register.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/account/components/register/register.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/chat/chat.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/chat/chat.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/chat/components/room-register/components/room-contacts/room-contacts.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/chat/components/room-register/room-register.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/chat/components/room-register/room-register.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/shared/helpers/keyboard.helper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/shared/helpers/keyboard.helper.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/shared/helpers/pipe-helper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/shared/helpers/pipe-helper.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/swagger/api-configuration.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/swagger/api-configuration.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/swagger/models/user-request.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/swagger/models/user-request.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/swagger/services/account.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/swagger/services/account.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ionic-chat.WEB.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ionic-chat.WEB.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../ionic-chat.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../ionic-chat/ionic-chat.WEB.csproj" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="1fYPhtdyLCBD5pn72DJGhszPwcD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="D:/AndroidSDK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b9b1006-5c49-47a5-9ab0-0fba62c66957" name="Default Changelist" comment="" />
+      <created>1596392174044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596392174044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="807" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596392222040">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="807" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596392222040" />
+    <state x="614" y="134" key="CommitChangelistDialog2" timestamp="1596392665346">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="614" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1596392665346" />
+  </component>
+</project>
