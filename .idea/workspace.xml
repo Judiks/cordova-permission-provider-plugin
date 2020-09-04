@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b9b1006-5c49-47a5-9ab0-0fba62c66957" name="Default Changelist" comment="" />
+    <list default="true" id="2b9b1006-5c49-47a5-9ab0-0fba62c66957" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/android/PermissionProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/android/PermissionProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhoneData" beforeDir="false" afterPath="$PROJECT_DIR$/../PhoneData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SMSCatcher/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SMSCatcher/src/android/SMSCatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SMSCatcher/www/SMSCatcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../capacitor.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../capacitor.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/account.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/account/account.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/components/register-code/register-code.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/components/register-code/register-code.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/components/register-code/register-code.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/components/register-login/register-login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/components/register-login/register-login.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/components/register-login/register-login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/components/register-password/register-password.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/components/register-password/register-password.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/components/register-password/register-password.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/components/register-phone/register-phone.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/components/register-phone/register-phone.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/components/register-phone/register-phone.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/register.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/account/components/register/register.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/account/components/register/register.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/app/account/components/register/register.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/app/shared/dto/sms-register-data.dto.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../src/swagger/api.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../../src/swagger/api.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ionic-chat.WEB.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ionic-chat.WEB.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="D:/AndroidSDK" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../@cordova-native/plugins/PermissionProvider" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../platforms/android" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,9 +73,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="614" y="134" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1596392665346" />
-    <state x="507" y="222" key="FileChooserDialogImpl" timestamp="1599050622208">
+    <state x="507" y="222" key="FileChooserDialogImpl" timestamp="1599222536651">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="507" y="222" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599050622208" />
+    <state x="507" y="222" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599222536651" />
   </component>
 </project>
