@@ -17,7 +17,6 @@ import org.json.JSONException;
 public class PermissionProvider extends CordovaPlugin implements ActivityCompat.OnRequestPermissionsResultCallback {
 
     private static final int PERMISSION_CODE = 500;
-    Context _context = this.cordova.getActivity().getApplicationContext();
     private boolean isReadPermission = false;
 
     @Override
@@ -36,6 +35,7 @@ public class PermissionProvider extends CordovaPlugin implements ActivityCompat.
     }
 
     private void checkPermission(String message, CallbackContext callbackContext) {
+        Context _context = this.cordova.getActivity().getApplicationContext();
         if (ContextCompat.checkSelfPermission(
                 _context, message) ==
                 PackageManager.PERMISSION_GRANTED) {
